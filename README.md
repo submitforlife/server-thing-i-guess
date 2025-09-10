@@ -22,11 +22,13 @@ Requirements:
 ==========================================================================================================================================================================================
 Windows 7+ (you may need to install some updates tho)
 
-Python 3.8.x
+Python 3.8.x and above
 
 Atleast 2 GB of storage (or go lower but 2 gb and higher is recommended.)
 
 512 MB of RAM (or go lower but 512 mb and higher is recommended.)
+
+also the system requirements may be innacurate cuz i only did it with my hardware and nowhere else.
 
 hopes and prayers that this is gonna work first try
 
