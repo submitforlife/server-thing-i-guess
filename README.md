@@ -1,6 +1,8 @@
 # server-thing-i-guess
 a template for a local only server
 
+now has an exe installer! although just download the portable installer cuz its more stable
+
 featurs!!
 ==========================================================================================================================================================================================
 
